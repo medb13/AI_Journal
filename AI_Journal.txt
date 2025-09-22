@@ -1,5 +1,8 @@
 AI Usage Journal
 Ahmed Baghdadi
 
-
+9/14
 This week, I used ChatGPT to get caught up on some of the core concepts that we will need in this course, beginning this week. Here is a link to my prompt: https://chatgpt.com/share/68c78636-1690-8010-b974-08c4525a74e1. Funnily enough, I also used AI for help deciphering texts a POI sent. In addition to this, I asked GPT to give me the possible causes for a hand problem I was having after eating a large meal that was high in cholesterol.
+
+9/21
+This week, I did not use AI as much as previous weeks. I did, however, just use it today to review a paper that I wrote. I submitted a screenshot of the rubric of the paper and the guidelines we were supposed to follow, then submitted the paper for review and used GPT to help identify flaws of the paper such as areas where I could improve flow and readability.
