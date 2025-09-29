@@ -6,3 +6,6 @@ This week, I used ChatGPT to get caught up on some of the core concepts that we 
 
 9/21
 This week, I did not use AI as much as previous weeks. I did, however, just use it today to review a paper that I wrote. I submitted a screenshot of the rubric of the paper and the guidelines we were supposed to follow, then submitted the paper for review and used GPT to help identify flaws of the paper such as areas where I could improve flow and readability.
+
+9/28
+This week, I used AI to help provide me with some example coding problems I could complete to improve my python skills and possibly learn a new concept. I asked GPT-5 to provide me with the coding problems and not the answers, then I pasted my solution to the problem and asked for feedback.
