@@ -9,3 +9,6 @@ This week, I did not use AI as much as previous weeks. I did, however, just use 
 
 9/28
 This week, I used AI to help provide me with some example coding problems I could complete to improve my python skills and possibly learn a new concept. I asked GPT-5 to provide me with the coding problems and not the answers, then I pasted my solution to the problem and asked for feedback.
+
+10/5
+This week, I used AI to help create a small spreadsheet outline so I can track client orders and payment for my small reselling business. I asked GPT-5 to "outline a spreadsheet for a small business that is selling online products and shipping domestically", and it offered me a good outline that includes sections for customer name, address, date of purchase, shipping type selected, and payment type used.
