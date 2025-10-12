@@ -12,3 +12,6 @@ This week, I used AI to help provide me with some example coding problems I coul
 
 10/5
 This week, I used AI to help create a small spreadsheet outline so I can track client orders and payment for my small reselling business. I asked GPT-5 to "outline a spreadsheet for a small business that is selling online products and shipping domestically", and it offered me a good outline that includes sections for customer name, address, date of purchase, shipping type selected, and payment type used.
+
+10/12
+This week, I used AI to review the PlantingContainer class for encapsulation, per the instructions for the weekly discussion post for this class. I also used AI to grade one of my essays for another class I am taking, in order to get an idea of what grade I may get on the essay and what I may need to change or fix before submitting.
